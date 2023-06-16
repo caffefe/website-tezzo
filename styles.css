@@ -1,0 +1,175 @@
+header{
+background-color:#D94343;
+ width:2500px;
+height: 75px;
+-webkit-text-fill-color:white;
+}
+
+nav{
+    margin-left: 4%;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+
+li{
+    float: left;
+}
+
+li a{
+    display: block;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+li a:hover{
+    display: block;
+    background-color:#cf7979;
+    border-radius: 8px;
+    padding: 8px 14px;
+}
+
+
+
+body{
+    background-color:#D94343;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    font-size: 40px;
+    text-align: center;
+}
+
+main{
+    background-color:#D94343;
+     width:2500px;
+    height: 75px;
+
+}
+
+footer{
+background-color:#D94343;
+ width:2500px;
+height: 75px;
+float: right;
+}
+
+.boxw{
+background-color: #D94343;
+height: 1200px;
+width: 5%;
+float: left;
+}
+
+.boxborder{
+    background-color:#606060;
+    height: 650px;
+    width: 55%;
+    margin-left: 500px;
+    margin-top: 75px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#D94343;
+    float: left;
+   
+    
+}
+.boxmid{
+    background-color:#606060;
+    height: 1200px;
+    width: 90%;
+    float: left;
+   
+    
+}
+
+
+
+.boxtransparent{
+    background-color: #00000070;
+    margin-top: 145px;
+    margin-left: 1600px;
+    height: 900px;
+    width: 600px;
+    float: left;
+    text-align: center;
+    }
+
+
+
+.boxtransparent2{
+    background-color: #00000070;
+    margin-top: 145px;
+    margin-left: 800px;
+    height: 900px;
+    width: 600px;
+    float: left;
+    
+    }
+
+.boxsmall1{
+    background-color:#353535;
+    margin-top: 125px;
+    margin-left: 5%;
+    height: 390px;
+    width: 40%;
+    padding-top: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#D94343;
+
+    float: left;
+}
+
+.boxsmall2{
+    background-color:#353535;
+    margin-top: 125px;
+    margin-left: 10%;
+    height: 390px;
+    width: 40%;
+    padding-top: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#D94343;
+    float: left;
+}
+
+.boxsmall3{
+    background-color:#353535;
+    margin-top: 125px;
+    margin-left: 5%;
+    height: 390px;
+    width: 40%;
+    padding-top: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#D94343;
+    float: left;
+}
+
+.boxsmall4{
+    background-color:#353535;
+    margin-top: 125px;
+    margin-left: 10%;
+    height: 390px;
+    width: 40%;
+    padding-top: 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#D94343;
+    float: left;
+}
+
+
+.boxa{
+background-color: #D94343;
+height: 1200px;
+width: 5%;
+float: left;
+}
